@@ -5,9 +5,9 @@
 // }
 // f();
 
-var a = '1'
-a = 0
-function f() {
-  console.error(a)
+var   a = '1'
+a =   0
+function f(){
+      console.error(a);
 }
 f()
